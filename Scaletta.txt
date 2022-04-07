@@ -1,0 +1,18 @@
+Cose concrete da fare:
+fare visualizzazioni nel tempo delle varie cose
+
+fare visualizzazioni in generale
+
+Poi, visualizziamo i vari consumi per paese confrontati col tipo di energia, e confrontati
+con le direttive di consumo emanate da qualcosa
+
+poi, visualizziamo i costi delle varie energie confrontate con la disponibilitá dei paesi
+
+poi, visualizziamo la mortalitá
+
+Poi stabiliamo una volta trovata una configurazione di energia ottimale, in quanto tempo
+ci vorrebbe perché raggiungiamo gli obbiettivi tipo scioglimento ghiacciai etc
+Possiamo prima fare una predizione su se continuiamo cosí, e poi predizione se usiamo il nostro modello.
+
+
+
