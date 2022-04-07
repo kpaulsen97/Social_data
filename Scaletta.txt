@@ -15,4 +15,45 @@ ci vorrebbe perché raggiungiamo gli obbiettivi tipo scioglimento ghiacciai etc
 Possiamo prima fare una predizione su se continuiamo cosí, e poi predizione se usiamo il nostro modello.
 
 
+BEATRICE:
 
+- heatmap del mondo in un preciso anno (interessante) con un attributo da visualizzare
+
+-make a movie of the world map from 1965 to 2019 with the green level per year or the annual consumption or an other attribute
+
+- per il nucleare in particolare possiamo mettere a confronto la media di tutti i paesi negli anni
+x: paesi vari
+Y: media energia nucleare negli anni 
+
+- peroni paese bar plot negli anni di qualsiasi attributo ci interessi (esempio emissione CO2)
+
+- fare un bar plot dove sulle x ci sono i paesi e sulle y i vari tipi di energia in media nel range di anni che abbiamo
+
+- plottare probabilità di qualcosa...??
+
+- logarithmic plots..?? Mm
+
+- scatter plots tra coppie di paesi? Settimana 5
+
+
+
+1) IDEA:
+
+
+2) DATASET NEEDED: mix
+
+
+3) WHY INTERESTING: 
+
+
+4) WHICH VIZ: bar plots, heat maps, movies, scatterplots
+
+
+5) TYPE OF GENRE AND WHY:
+
+6) TOTAL SIZE OF THE DATA:
+
+7) OTHER PROPERTIES: is a geo-data, from 1965 to 2019
+
+
+8) FONDAMENTAL ASPECTS OF THE DATA: work of week 3...(boxplot, probplot, gaussian_kde, histograms, jitter plots )
