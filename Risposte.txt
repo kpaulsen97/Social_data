@@ -1,0 +1,19 @@
+What is the idea? 
+We want to investigate the relationship between energy consumption and global warming/mortality
+and find a better solution energy wise.
+
+Datasets:
+Annual CO2 emissions per country, Environment_Temperature_change_e_all_data,
+per-capita-energy-use, share-energy-consum-by-source, world-energy-consumption.
+
+Why is it interesting:
+Because they treat a very important topic in today society
+
+Type of genre:
+slide show, we believe it would be the most efficacious towards expressing our idea.
+Because every image will tell an important piece story, and so slides allow us to focus on
+one picture after another. 
+
+Dataset che analizzeró: share energy consum by source ha tot righe divise per e per
+
+https://www.youtube.com/watch?v=KDLAJGa3f9g
